@@ -1,0 +1,639 @@
+index: 1/novel/runtime: 2868/convergence_time: 895/population_size: 25/fitness: 0.9996066666666666/valid idle proportion: 0.03933333333333333
+index: 1/standard/runtime: 2963/convergence_time: 761/population_size: 25/fitness: 0.9996066666666666/valid idle proportion: 0.03933333333333333
+
+index: 2/standard/runtime: 2069/convergence_time: 349/population_size: 25/fitness: 0.9995366666666666/valid idle proportion: 0.04633333333333333
+index: 2/novel/runtime: 2230/convergence_time: 145/population_size: 25/fitness: 0.9995366666666666/valid idle proportion: 0.04633333333333333
+
+index: 3/novel/runtime: 1733/convergence_time: 86/population_size: 25/fitness: 0.9992833333333333/valid idle proportion: 0.07166666666666667
+
+index: 3/standard/runtime: 2494/convergence_time: 199/population_size: 50/fitness: 0.9992833333333333/valid idle proportion: 0.07166666666666667
+index: 3/novel/runtime: 2759/convergence_time: 117/population_size: 50/fitness: 0.9992833333333333/valid idle proportion: 0.07166666666666667
+
+index: 4/standard/runtime: 1922/convergence_time: 405/population_size: 25/fitness: 0.99909/valid idle proportion: 0.091
+index: 4/novel/runtime: 1968/convergence_time: 54/population_size: 25/fitness: 0.99909/valid idle proportion: 0.091
+
+index: 5/novel/runtime: 1779/convergence_time: 193/population_size: 25/fitness: 0.9994566666666667/valid idle proportion: 0.05433333333333333
+
+index: 5/standard/runtime: 2599/convergence_time: 369/population_size: 50/fitness: 0.9994566666666667/valid idle proportion: 0.05433333333333333
+index: 5/novel/runtime: 2847/convergence_time: 173/population_size: 50/fitness: 0.9994566666666667/valid idle proportion: 0.05433333333333333
+
+index: 6/standard/runtime: 2156/convergence_time: 1095/population_size: 25/fitness: 0.9997133333333333/valid idle proportion: 0.028666666666666667
+
+index: 6/standard/runtime: 2928/convergence_time: 385/population_size: 50/fitness: 0.9997133333333333/valid idle proportion: 0.028666666666666667
+index: 6/novel/runtime: 3108/convergence_time: 149/population_size: 50/fitness: 0.9997133333333333/valid idle proportion: 0.028666666666666667
+
+index: 7/standard/runtime: 2321/convergence_time: 463/population_size: 25/fitness: 0.9992866666666667/valid idle proportion: 0.07133333333333333
+index: 7/novel/runtime: 2499/convergence_time: 296/population_size: 25/fitness: 0.9992866666666667/valid idle proportion: 0.07133333333333333
+
+
+
+
+
+
+index: 8/novel/runtime: 8244/convergence_time: 2387/population_size: 150/fitness: 0.99995/valid idle proportion: 0.005
+
+index: 8/novel/runtime: 9007/convergence_time: 749/population_size: 175/fitness: 0.99995/valid idle proportion: 0.005
+
+
+
+index: 8/standard/runtime: 9523/convergence_time: 1385/population_size: 250/fitness: 0.99995/valid idle proportion: 0.005
+index: 8/novel/runtime: 11708/convergence_time: 1093/population_size: 250/fitness: 0.99995/valid idle proportion: 0.005
+
+
+index: 9/novel/runtime: 4084/convergence_time: 391/population_size: 50/fitness: 0.99975/valid idle proportion: 0.025
+
+index: 9/standard/runtime: 6598/convergence_time: 1115/population_size: 75/fitness: 0.99975/valid idle proportion: 0.025
+index: 9/novel/runtime: 7403/convergence_time: 961/population_size: 75/fitness: 0.99975/valid idle proportion: 0.025
+
+index: 10/standard/runtime: 3210/convergence_time: 428/population_size: 25/fitness: 0.9994366666666666/valid idle proportion: 0.05633333333333333
+index: 10/novel/runtime: 3477/convergence_time: 307/population_size: 25/fitness: 0.9994366666666666/valid idle proportion: 0.05633333333333333
+
+index: 11/standard/runtime: 3262/convergence_time: 955/population_size: 25/fitness: 0.99922/valid idle proportion: 0.078
+index: 11/novel/runtime: 3356/convergence_time: 848/population_size: 25/fitness: 0.99922/valid idle proportion: 0.078
+
+
+index: 12/novel/runtime: 6566/convergence_time: 867/population_size: 50/fitness: 0.9997666666666667/valid idle proportion: 0.023333333333333334
+
+index: 12/standard/runtime: 6371/convergence_time: 1344/population_size: 75/fitness: 0.9997666666666667/valid idle proportion: 0.023333333333333334
+index: 12/novel/runtime: 7095/convergence_time: 942/population_size: 75/fitness: 0.9997666666666667/valid idle proportion: 0.023333333333333334
+
+
+index: 13/standard/runtime: 5946/convergence_time: 1092/population_size: 50/fitness: 0.9996533333333333/valid idle proportion: 0.034666666666666665
+index: 13/novel/runtime: 6036/convergence_time: 759/population_size: 50/fitness: 0.9996533333333333/valid idle proportion: 0.034666666666666665
+
+
+
+
+index: 14/novel/runtime: 10207/convergence_time: 2969/population_size: 100/fitness: 0.99993/valid idle proportion: 0.007
+
+index: 14/novel/runtime: 11981/convergence_time: 1483/population_size: 125/fitness: 0.99993/valid idle proportion: 0.007
+
+index: 14/novel/runtime: 11192/convergence_time: 2045/population_size: 150/fitness: 0.99993/valid idle proportion: 0.007
+
+index: 14/standard/runtime: 12137/convergence_time: 2189/population_size: 175/fitness: 0.99993/valid idle proportion: 0.007
+index: 14/novel/runtime: 14085/convergence_time: 3576/population_size: 175/fitness: 0.99993/valid idle proportion: 0.007
+
+index: 15/standard/runtime: 6066/convergence_time: 1239/population_size: 25/fitness: 0.9999366666666667/valid idle proportion: 0.006333333333333333
+
+
+index: 15/standard/runtime: 6819/convergence_time: 1060/population_size: 75/fitness: 0.9999366666666667/valid idle proportion: 0.006333333333333333
+index: 15/novel/runtime: 7649/convergence_time: 1318/population_size: 75/fitness: 0.9999366666666667/valid idle proportion: 0.006333333333333333
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+index: 51/novel/runtime: 3439/convergence_time: 806/population_size: 50/fitness: 0.9992525/valid idle proportion: 0.07475
+
+index: 51/standard/runtime: 3111/convergence_time: 521/population_size: 100/fitness: 0.9992525/valid idle proportion: 0.07475
+index: 51/novel/runtime: 3703/convergence_time: 379/population_size: 100/fitness: 0.9992525/valid idle proportion: 0.07475
+
+index: 52/novel/runtime: 2415/convergence_time: 333/population_size: 50/fitness: 0.9997525/valid idle proportion: 0.02475
+
+
+index: 52/standard/runtime: 4141/convergence_time: 899/population_size: 150/fitness: 0.9997525/valid idle proportion: 0.02475
+index: 52/novel/runtime: 4590/convergence_time: 423/population_size: 150/fitness: 0.9997525/valid idle proportion: 0.02475
+
+index: 53/standard/runtime: 2179/convergence_time: 367/population_size: 50/fitness: 0.999002/valid idle proportion: 0.0998
+index: 53/novel/runtime: 2525/convergence_time: 343/population_size: 50/fitness: 0.999002/valid idle proportion: 0.0998
+
+index: 54/novel/runtime: 2437/convergence_time: 251/population_size: 50/fitness: 0.998384/valid idle proportion: 0.1616
+
+index: 54/standard/runtime: 3001/convergence_time: 311/population_size: 100/fitness: 0.998384/valid idle proportion: 0.1616
+index: 54/novel/runtime: 3504/convergence_time: 247/population_size: 100/fitness: 0.998384/valid idle proportion: 0.1616
+
+index: 55/novel/runtime: 2485/convergence_time: 332/population_size: 50/fitness: 0.998984/valid idle proportion: 0.1016
+
+index: 55/standard/runtime: 3108/convergence_time: 434/population_size: 100/fitness: 0.998984/valid idle proportion: 0.1016
+index: 55/novel/runtime: 3559/convergence_time: 163/population_size: 100/fitness: 0.998984/valid idle proportion: 0.1016
+
+index: 56/novel/runtime: 2424/convergence_time: 454/population_size: 50/fitness: 0.9996625/valid idle proportion: 0.03375
+
+index: 56/standard/runtime: 3352/convergence_time: 608/population_size: 100/fitness: 0.9996625/valid idle proportion: 0.03375
+index: 56/novel/runtime: 3875/convergence_time: 262/population_size: 100/fitness: 0.9996625/valid idle proportion: 0.03375
+
+index: 57/standard/runtime: 2388/convergence_time: 557/population_size: 50/fitness: 0.999285/valid idle proportion: 0.0715
+index: 57/novel/runtime: 2521/convergence_time: 198/population_size: 50/fitness: 0.999285/valid idle proportion: 0.0715
+
+index: 58/standard/runtime: 2241/convergence_time: 236/population_size: 50/fitness: 0.998592/valid idle proportion: 0.1408
+index: 58/novel/runtime: 2575/convergence_time: 207/population_size: 50/fitness: 0.998592/valid idle proportion: 0.1408
+
+
+
+
+
+
+
+
+
+
+MEDIUM DATA
+
+
+
+
+
+index: 2/novel/runtime: 14746/convergence_time: 2796/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 38104/convergence_time: 8206/population_size: 150/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 65232/convergence_time: 7490/population_size: 250/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 83780/convergence_time: 14346/population_size: 350/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 109415/convergence_time: 16766/population_size: 450/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 137689/convergence_time: 19583/population_size: 550/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 13676/convergence_time: 2304/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 42773/convergence_time: 5106/population_size: 150/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+
+index: 2/novel/runtime: 36339/convergence_time: 5669/population_size: 150/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 60414/convergence_time: 8765/population_size: 250/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 61818/convergence_time: 28002/population_size: 350/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+index: 2/novel/runtime: 84877/convergence_time: 13820/population_size: 350/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 3/novel/runtime: 13822/convergence_time: 3619/population_size: 50/fitness: 0.99936375/valid idle proportion: 0.063625
+
+index: 3/novel/runtime: 33354/convergence_time: 8845/population_size: 150/fitness: 0.99936375/valid idle proportion: 0.063625
+
+
+index: 3/novel/runtime: 70543/convergence_time: 27372/population_size: 350/fitness: 0.99936375/valid idle proportion: 0.063625
+
+index: 3/novel/runtime: 91109/convergence_time: 27596/population_size: 450/fitness: 0.99936375/valid idle proportion: 0.063625
+
+index: 3/novel/runtime: 132775/convergence_time: 33492/population_size: 550/fitness: 0.99936375/valid idle proportion: 0.063625
+
+index: 3/novel/runtime: 121090/convergence_time: 51688/population_size: 650/fitness: 0.99936375/valid idle proportion: 0.063625
+index: 3/novel/runtime: 157923/convergence_time: 48001/population_size: 650/fitness: 0.99936375/valid idle proportion: 0.063625
+
+index: 4/novel/runtime: 13821/convergence_time: 3864/population_size: 50/fitness: 0.9995757142857142/valid idle proportion: 0.04242857142857143
+
+
+
+index: 4/standard/runtime: 59730/convergence_time: 16422/population_size: 350/fitness: 0.9995757142857142/valid idle proportion: 0.04242857142857143
+index: 4/novel/runtime: 78412/convergence_time: 28024/population_size: 350/fitness: 0.9995757142857142/valid idle proportion: 0.04242857142857143
+
+
+
+index: 5/novel/runtime: 66060/convergence_time: 19182/population_size: 250/fitness: 0.9996828571428571/valid idle proportion: 0.031714285714285716
+
+
+index: 5/novel/runtime: 116867/convergence_time: 43755/population_size: 450/fitness: 0.9996828571428571/valid idle proportion: 0.031714285714285716
+
+index: 5/novel/runtime: 142601/convergence_time: 71057/population_size: 550/fitness: 0.9996828571428571/valid idle proportion: 0.031714285714285716
+
+index: 5/standard/runtime: 124899/convergence_time: 50884/population_size: 650/fitness: 0.9996828571428571/valid idle proportion: 0.031714285714285716
+index: 5/novel/runtime: 169022/convergence_time: 80654/population_size: 650/fitness: 0.9996828571428571/valid idle proportion: 0.031714285714285716
+
+index: 6/novel/runtime: 14143/convergence_time: 2338/population_size: 50/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+
+index: 6/novel/runtime: 61707/convergence_time: 13582/population_size: 250/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+index: 6/novel/runtime: 83277/convergence_time: 24676/population_size: 350/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+index: 6/novel/runtime: 115567/convergence_time: 37804/population_size: 450/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+index: 6/novel/runtime: 126248/convergence_time: 28589/population_size: 550/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+index: 6/novel/runtime: 148929/convergence_time: 32571/population_size: 650/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+index: 6/novel/runtime: 172142/convergence_time: 54635/population_size: 750/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+index: 6/novel/runtime: 194975/convergence_time: 50549/population_size: 850/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+index: 6/novel/runtime: 218236/convergence_time: 49307/population_size: 950/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+index: 6/novel/runtime: 241860/convergence_time: 55863/population_size: 1050/fitness: 0.9997116666666667/valid idle proportion: 0.028833333333333332
+
+
+index: 7/novel/runtime: 38678/convergence_time: 14387/population_size: 150/fitness: 0.9997685714285715/valid idle proportion: 0.023142857142857142
+
+index: 7/novel/runtime: 67523/convergence_time: 26649/population_size: 250/fitness: 0.9997685714285715/valid idle proportion: 0.023142857142857142
+
+
+index: 7/novel/runtime: 123773/convergence_time: 48502/population_size: 450/fitness: 0.9997685714285715/valid idle proportion: 0.023142857142857142
+
+index: 7/novel/runtime: 145289/convergence_time: 62430/population_size: 550/fitness: 0.9997685714285715/valid idle proportion: 0.023142857142857142
+
+index: 7/standard/runtime: 128273/convergence_time: 58706/population_size: 650/fitness: 0.9997685714285715/valid idle proportion: 0.023142857142857142
+index: 7/novel/runtime: 168359/convergence_time: 67562/population_size: 650/fitness: 0.9997685714285715/valid idle proportion: 0.023142857142857142
+
+index: 8/novel/runtime: 15801/convergence_time: 3050/population_size: 50/fitness: 0.99942/valid idle proportion: 0.058
+
+index: 8/novel/runtime: 38663/convergence_time: 7849/population_size: 150/fitness: 0.99942/valid idle proportion: 0.058
+
+index: 8/novel/runtime: 63418/convergence_time: 11956/population_size: 250/fitness: 0.99942/valid idle proportion: 0.058
+
+index: 8/standard/runtime: 66261/convergence_time: 16163/population_size: 350/fitness: 0.99942/valid idle proportion: 0.058
+index: 8/novel/runtime: 87517/convergence_time: 15385/population_size: 350/fitness: 0.99942/valid idle proportion: 0.058
+
+
+index: 9/novel/runtime: 39288/convergence_time: 8192/population_size: 150/fitness: 0.9990122222222222/valid idle proportion: 0.09877777777777778
+
+index: 9/novel/runtime: 64728/convergence_time: 13320/population_size: 250/fitness: 0.9990122222222222/valid idle proportion: 0.09877777777777778
+
+index: 9/novel/runtime: 89316/convergence_time: 19560/population_size: 350/fitness: 0.9990122222222222/valid idle proportion: 0.09877777777777778
+
+index: 9/novel/runtime: 115708/convergence_time: 36657/population_size: 450/fitness: 0.9990122222222222/valid idle proportion: 0.09877777777777778
+
+index: 9/standard/runtime: 107215/convergence_time: 35683/population_size: 550/fitness: 0.9990122222222222/valid idle proportion: 0.09877777777777778
+index: 9/novel/runtime: 141319/convergence_time: 36928/population_size: 550/fitness: 0.9990122222222222/valid idle proportion: 0.09877777777777778
+
+
+index: 10/novel/runtime: 37869/convergence_time: 10466/population_size: 150/fitness: 0.9994871428571429/valid idle proportion: 0.05128571428571429
+
+index: 10/standard/runtime: 45833/convergence_time: 14551/population_size: 250/fitness: 0.9994871428571429/valid idle proportion: 0.05128571428571429
+index: 10/novel/runtime: 59745/convergence_time: 14767/population_size: 250/fitness: 0.9994871428571429/valid idle proportion: 0.05128571428571429
+
+
+
+index: 11/novel/runtime: 74291/convergence_time: 23659/population_size: 250/fitness: 0.9996757142857143/valid idle proportion: 0.03242857142857143
+
+index: 11/novel/runtime: 98100/convergence_time: 26218/population_size: 350/fitness: 0.9996757142857143/valid idle proportion: 0.03242857142857143
+
+index: 11/novel/runtime: 124701/convergence_time: 32542/population_size: 450/fitness: 0.9996757142857143/valid idle proportion: 0.03242857142857143
+
+index: 11/standard/runtime: 115888/convergence_time: 51246/population_size: 550/fitness: 0.9996757142857143/valid idle proportion: 0.03242857142857143
+index: 11/novel/runtime: 152457/convergence_time: 42853/population_size: 550/fitness: 0.9996757142857143/valid idle proportion: 0.03242857142857143
+
+
+
+
+
+
+index: 12/standard/runtime: 109096/convergence_time: 54458/population_size: 550/fitness: 0.9999316666666667/valid idle proportion: 0.006833333333333334
+
+index: 12/standard/runtime: 126434/convergence_time: 89528/population_size: 650/fitness: 0.9999316666666667/valid idle proportion: 0.006833333333333334
+
+
+
+
+
+index: 13/novel/runtime: 16867/convergence_time: 2792/population_size: 50/fitness: 0.9995516666666666/valid idle proportion: 0.044833333333333336
+
+index: 13/standard/runtime: 33878/convergence_time: 6968/population_size: 150/fitness: 0.9995516666666666/valid idle proportion: 0.044833333333333336
+index: 13/novel/runtime: 43899/convergence_time: 7230/population_size: 150/fitness: 0.9995516666666666/valid idle proportion: 0.044833333333333336
+
+index: 14/novel/runtime: 14306/convergence_time: 3829/population_size: 50/fitness: 0.9996042857142857/valid idle proportion: 0.03957142857142857
+
+index: 14/novel/runtime: 39180/convergence_time: 12527/population_size: 150/fitness: 0.9996042857142857/valid idle proportion: 0.03957142857142857
+
+index: 14/novel/runtime: 60818/convergence_time: 19342/population_size: 250/fitness: 0.9996042857142857/valid idle proportion: 0.03957142857142857
+
+index: 14/novel/runtime: 84260/convergence_time: 28009/population_size: 350/fitness: 0.9996042857142857/valid idle proportion: 0.03957142857142857
+
+index: 14/novel/runtime: 108275/convergence_time: 47123/population_size: 450/fitness: 0.9996042857142857/valid idle proportion: 0.03957142857142857
+
+index: 14/novel/runtime: 131786/convergence_time: 40015/population_size: 550/fitness: 0.9996042857142857/valid idle proportion: 0.03957142857142857
+
+index: 14/novel/runtime: 155944/convergence_time: 37838/population_size: 650/fitness: 0.9996042857142857/valid idle proportion: 0.03957142857142857
+
+index: 14/standard/runtime: 135895/convergence_time: 43945/population_size: 750/fitness: 0.9996042857142857/valid idle proportion: 0.03957142857142857
+index: 14/novel/runtime: 180547/convergence_time: 48602/population_size: 750/fitness: 0.9996042857142857/valid idle proportion: 0.03957142857142857
+
+index: 15/novel/runtime: 15314/convergence_time: 3797/population_size: 50/fitness: 0.99938625/valid idle proportion: 0.061375
+
+index: 15/novel/runtime: 40049/convergence_time: 8606/population_size: 150/fitness: 0.99938625/valid idle proportion: 0.061375
+
+index: 15/standard/runtime: 50627/convergence_time: 18181/population_size: 250/fitness: 0.99938625/valid idle proportion: 0.061375
+index: 15/novel/runtime: 65636/convergence_time: 20594/population_size: 250/fitness: 0.99938625/valid idle proportion: 0.061375
+
+
+
+index: 16/novel/runtime: 61849/convergence_time: 14880/population_size: 250/fitness: 0.999185/valid idle proportion: 0.0815
+
+index: 16/standard/runtime: 65682/convergence_time: 19530/population_size: 350/fitness: 0.999185/valid idle proportion: 0.0815
+index: 16/novel/runtime: 85275/convergence_time: 18752/population_size: 350/fitness: 0.999185/valid idle proportion: 0.0815
+
+index: 17/novel/runtime: 15056/convergence_time: 3092/population_size: 50/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+
+index: 17/novel/runtime: 41621/convergence_time: 8595/population_size: 150/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+
+index: 17/novel/runtime: 65874/convergence_time: 12050/population_size: 250/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+
+index: 17/novel/runtime: 91682/convergence_time: 14952/population_size: 350/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+
+index: 17/novel/runtime: 117462/convergence_time: 22983/population_size: 450/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+
+index: 17/novel/runtime: 144434/convergence_time: 26200/population_size: 550/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+
+index: 17/novel/runtime: 171025/convergence_time: 31015/population_size: 650/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+
+index: 17/novel/runtime: 197196/convergence_time: 37114/population_size: 750/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+
+index: 17/standard/runtime: 168257/convergence_time: 56996/population_size: 850/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+index: 17/novel/runtime: 224007/convergence_time: 36277/population_size: 850/fitness: 0.9993557142857142/valid idle proportion: 0.06442857142857143
+
+
+index: 18/novel/runtime: 41129/convergence_time: 7396/population_size: 150/fitness: 0.9994342857142857/valid idle proportion: 0.05657142857142857
+
+index: 18/novel/runtime: 66569/convergence_time: 14587/population_size: 250/fitness: 0.9994342857142857/valid idle proportion: 0.05657142857142857
+
+index: 18/novel/runtime: 92648/convergence_time: 20329/population_size: 350/fitness: 0.9994342857142857/valid idle proportion: 0.05657142857142857
+
+index: 18/standard/runtime: 90233/convergence_time: 25904/population_size: 450/fitness: 0.9994342857142857/valid idle proportion: 0.05657142857142857
+index: 18/novel/runtime: 118766/convergence_time: 26438/population_size: 450/fitness: 0.9994342857142857/valid idle proportion: 0.05657142857142857
+
+
+
+
+index: 19/novel/runtime: 88886/convergence_time: 44093/population_size: 350/fitness: 0.9995975/valid idle proportion: 0.04025
+
+index: 19/novel/runtime: 113970/convergence_time: 65480/population_size: 450/fitness: 0.9995975/valid idle proportion: 0.04025
+
+
+index: 19/novel/runtime: 166866/convergence_time: 151378/population_size: 650/fitness: 0.9995975/valid idle proportion: 0.04025
+
+index: 19/novel/runtime: 192480/convergence_time: 51631/population_size: 750/fitness: 0.9995975/valid idle proportion: 0.04025
+
+index: 19/novel/runtime: 216731/convergence_time: 183580/population_size: 850/fitness: 0.9995975/valid idle proportion: 0.04025
+
+
+index: 19/novel/runtime: 269295/convergence_time: 193827/population_size: 1050/fitness: 0.9995975/valid idle proportion: 0.04025
+
+
+index: 20/novel/runtime: 39988/convergence_time: 15827/population_size: 150/fitness: 0.9994975/valid idle proportion: 0.05025
+
+index: 20/novel/runtime: 64249/convergence_time: 25630/population_size: 250/fitness: 0.9994975/valid idle proportion: 0.05025
+
+index: 20/standard/runtime: 68491/convergence_time: 23666/population_size: 350/fitness: 0.9994975/valid idle proportion: 0.05025
+index: 20/novel/runtime: 89052/convergence_time: 57705/population_size: 350/fitness: 0.9994975/valid idle proportion: 0.05025
+
+
+index: 21/standard/runtime: 33740/convergence_time: 8334/population_size: 150/fitness: 0.99966/valid idle proportion: 0.034
+index: 21/novel/runtime: 46703/convergence_time: 14856/population_size: 150/fitness: 0.99966/valid idle proportion: 0.034
+
+
+
+index: 22/standard/runtime: 49629/convergence_time: 16853/population_size: 250/fitness: 0.9997514285714286/valid idle proportion: 0.024857142857142855
+index: 22/novel/runtime: 62332/convergence_time: 22521/population_size: 250/fitness: 0.9997514285714286/valid idle proportion: 0.024857142857142855
+
+index: 23/novel/runtime: 16952/convergence_time: 3379/population_size: 50/fitness: 0.9996357142857143/valid idle proportion: 0.03642857142857143
+
+index: 23/novel/runtime: 43577/convergence_time: 10335/population_size: 150/fitness: 0.9996357142857143/valid idle proportion: 0.03642857142857143
+
+index: 23/novel/runtime: 69367/convergence_time: 32245/population_size: 250/fitness: 0.9996357142857143/valid idle proportion: 0.03642857142857143
+
+
+index: 23/novel/runtime: 120422/convergence_time: 38411/population_size: 450/fitness: 0.9996357142857143/valid idle proportion: 0.03642857142857143
+
+index: 23/standard/runtime: 111215/convergence_time: 40540/population_size: 550/fitness: 0.9996357142857143/valid idle proportion: 0.03642857142857143
+index: 23/novel/runtime: 145202/convergence_time: 67990/population_size: 550/fitness: 0.9996357142857143/valid idle proportion: 0.03642857142857143
+
+index: 24/novel/runtime: 14698/convergence_time: 2701/population_size: 50/fitness: 0.9990914285714285/valid idle proportion: 0.09085714285714286
+
+index: 24/novel/runtime: 38659/convergence_time: 7302/population_size: 150/fitness: 0.9990914285714285/valid idle proportion: 0.09085714285714286
+
+index: 24/novel/runtime: 63287/convergence_time: 10043/population_size: 250/fitness: 0.9990914285714285/valid idle proportion: 0.09085714285714286
+
+index: 24/standard/runtime: 67855/convergence_time: 18580/population_size: 350/fitness: 0.9990914285714285/valid idle proportion: 0.09085714285714286
+index: 24/novel/runtime: 89736/convergence_time: 12732/population_size: 350/fitness: 0.9990914285714285/valid idle proportion: 0.09085714285714286
+
+
+
+index: 25/standard/runtime: 51893/convergence_time: 18340/population_size: 250/fitness: 0.9998466666666667/valid idle proportion: 0.015333333333333332
+
+index: 25/novel/runtime: 92672/convergence_time: 41232/population_size: 350/fitness: 0.9998466666666667/valid idle proportion: 0.015333333333333332
+
+index: 25/standard/runtime: 94514/convergence_time: 33972/population_size: 450/fitness: 0.9998466666666667/valid idle proportion: 0.015333333333333332
+index: 25/novel/runtime: 122878/convergence_time: 27604/population_size: 450/fitness: 0.9998466666666667/valid idle proportion: 0.015333333333333332
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+index: 1/novel/runtime: 14097/convergence_time: 3365/population_size: 50/fitness: 0.999095/valid idle proportion: 0.0905
+
+index: 1/novel/runtime: 35553/convergence_time: 6110/population_size: 150/fitness: 0.999095/valid idle proportion: 0.0905
+
+index: 1/standard/runtime: 42678/convergence_time: 11060/population_size: 250/fitness: 0.999095/valid idle proportion: 0.0905
+index: 1/novel/runtime: 59366/convergence_time: 10570/population_size: 250/fitness: 0.999095/valid idle proportion: 0.0905
+
+index: 2/novel/runtime: 13455/convergence_time: 2832/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 33859/convergence_time: 4750/population_size: 150/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/standard/runtime: 40358/convergence_time: 9220/population_size: 250/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+index: 2/novel/runtime: 56315/convergence_time: 8421/population_size: 250/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 13790/convergence_time: 2653/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 15614/convergence_time: 4414/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 14299/convergence_time: 2585/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 14317/convergence_time: 2913/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 28705/convergence_time: 5314/population_size: 150/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 13823/convergence_time: 2831/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 15802/convergence_time: 3310/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 15571/convergence_time: 3084/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 14805/convergence_time: 3064/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 14064/convergence_time: 3160/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 13299/convergence_time: 2514/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 13732/convergence_time: 2553/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+
+
+index: 2/novel/runtime: 14570/convergence_time: 3233/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 15384/convergence_time: 2689/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 14750/convergence_time: 3224/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 14322/convergence_time: 3173/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 14842/convergence_time: 3888/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 25242/convergence_time: 7463/population_size: 50/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
+index: 2/novel/runtime: 45559/convergence_time: 7382/population_size: 150/fitness: 0.9993083333333334/valid idle proportion: 0.06916666666666667
+
